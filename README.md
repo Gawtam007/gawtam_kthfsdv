@@ -21,7 +21,7 @@ ex1/
   - add packages in the ros workspace and build it
     ``` catkin_make ```
   - source the setup file
-    ``` catkin_make ```
+    ``` source devel/setup.bash ```
   - start the roscore
     ```roscore ```
   - run publisher
@@ -32,10 +32,11 @@ ex1/
 
 ## Exercise 2
 
+- Install dependencies
+  ```pip install -r requirements.txt```
+- Run the python file
 
 ### Converting to Latex
-
-https://stackoverflow.com/questions/78672058/tikzplotlib-module-throws-attribute-error-module-webcolors-has-no-attribute
 
 - necessary latex packages
 ```
