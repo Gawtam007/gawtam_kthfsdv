@@ -5,7 +5,6 @@
 
 ```
 ex1/
-├── /
 │ ├── pub_package/
 │ ├── src/
 │ │ └── publisher.py
@@ -16,7 +15,6 @@ ex1/
 │ │ └── subscriber.py
 │ ├── CMakeLists.txt
 │ └── package.xml
-└── CMakeLists.txt
 ```
 
 
