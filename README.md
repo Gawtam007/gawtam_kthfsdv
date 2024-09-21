@@ -2,7 +2,7 @@
 
 ## Exercise 1
 
-
+- file structute of the packages
 ```
 ex1/
 │ ├── pub_package/
@@ -16,6 +16,18 @@ ex1/
 │ ├── CMakeLists.txt
 │ └── package.xml
 ```
+
+- Steps to run
+  - add packages in the ros workspace and build it
+    ``` catkin_make ```
+  - source the setup file
+    ``` catkin_make ```
+  - start the roscore
+    ```roscore ```
+  - run publisher
+    ``` rosrun pub_package publisher.py ```
+  - run subscriber
+    ``` rosrun sub_package subscriber.py ```
 
 
 ## Exercise 2
