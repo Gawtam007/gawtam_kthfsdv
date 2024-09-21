@@ -3,9 +3,9 @@
 ## Exercise 1
 
 
-
-
-
+```
+src/ ├── / │ ├── src/ │ │ ├── node1.py │ │ └── node2.py │ ├── CMakeLists.txt │ └── package.xml ├── package_2/ │ ├── src/ │ │ └── node3.cpp │ ├── CMakeLists.txt │ └── package.xml └── CMakeLists.txt
+```
 
 
 ## Exercise 2
