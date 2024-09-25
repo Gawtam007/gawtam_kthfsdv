@@ -4,7 +4,7 @@
 
 - plot of the data in the respective topics
 
-<img src="image.png" alt="plot" width="100"/>
+<img src="image.png" alt="plot" width="300"/>
 
 - file structute of the packages
   ```
