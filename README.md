@@ -2,6 +2,10 @@
 
 ## Exercise 1
 
+- plot of the data in the respective topics
+
+  ![plot](image.png)
+  
 - file structute of the packages
   ```
   ex1/
