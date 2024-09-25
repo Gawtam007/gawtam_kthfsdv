@@ -4,8 +4,8 @@
 
 - plot of the data in the respective topics
 
-  ![plot](image.png)
-  
+<img src="image.png" alt="plot" width="100"/>
+
 - file structute of the packages
   ```
   ex1/
